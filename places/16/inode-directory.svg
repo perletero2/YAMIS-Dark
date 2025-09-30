@@ -10,7 +10,7 @@
   </metadata>
   <sodipodi:namedview pagecolor="#9c4444" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1376" id="namedview9" showgrid="false" inkscape:zoom="13.140625" inkscape:cx="7.8382878" inkscape:cy="7.9143876" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg7" inkscape:document-rotation="0" inkscape:showpageshadow="0" inkscape:pagecheckerboard="false" inkscape:deskcolor="#ffffff"/>
   <defs id="defs3">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#000000} .ColorScheme-Highlight {color:#3b4252}</style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#2e3440} .ColorScheme-Highlight {color:#3b4252}</style>
   </defs>
-  <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.85714;stroke-opacity:0.3" class="ColorScheme-Text" d="m 12,16.285715 v 31.42857 c 0,0 0,2.857143 2.857143,2.857143 h 34.285714 c 0,0 2.857143,0 2.857143,-2.857143 V 22.000001 c 0,-2.857143 -2.857143,-2.857143 -2.857143,-2.857143 H 34.857143 L 29.142858,13.428572 H 14.857143 c 0,0 -2.857143,0 -2.857143,2.857143 z" id="path5"/>
+  <path style="fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:2.85714;stroke-opacity:0.3" class="ColorScheme-Text" d="m 12,16.285715 v 31.42857 c 0,0 0,2.857143 2.857143,2.857143 h 34.285714 c 0,0 2.857143,0 2.857143,-2.857143 V 22.000001 c 0,-2.857143 -2.857143,-2.857143 -2.857143,-2.857143 H 34.857143 L 29.142858,13.428572 H 14.857143 c 0,0 -2.857143,0 -2.857143,2.857143 z" id="path5"/>
 </svg>

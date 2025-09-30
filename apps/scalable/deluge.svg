@@ -17,7 +17,7 @@
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#9c4444"
-     bordercolor="#000000"
+     bordercolor="#2e3440"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
@@ -37,7 +37,7 @@
      id="defs2">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#000000} .ColorScheme-Highlight {color:#3b4252}</style>
+       type="text/css">.ColorScheme-Text {color:#2e3440} .ColorScheme-Highlight {color:#3b4252}</style>
   </defs>
   <metadata
      id="metadata2">
@@ -55,5 +55,5 @@
      stroke-width="0.595301"
      id="path5"
      class="ColorScheme-Text"
-     style="fill:#000000;fill-opacity:1" />
+     style="fill:#2e3440;fill-opacity:1" />
 </svg>
