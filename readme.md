@@ -1,6 +1,6 @@
 ### This is a Black version of Dirn [Yet Another Monochrome Icon Set](https://www.pling.com/p/2303161/) for light themes on non-adaptative environements
 
-Update : Replaced currentColor class with Black color, the only reason to use it was to keep the theme adaptative, but this variation is intended for non-adaptative system 
+Update : Replaced currentColor class with #2e344 color, the only reason to use it was to keep the theme adaptative, but this variation is intended for non-adaptative system 
 
 ## Yet Another Monochrome Icon Set For KDE Plasma ##
 
