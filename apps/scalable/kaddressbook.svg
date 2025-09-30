@@ -12,8 +12,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g style="fill:currentColor;fill-opacity:1" id="g5" transform="matrix(0.40103608,0,0,0.40103608,-4.3666546,-4.5671726)" class="ColorScheme-Text">
-    <path style="fill:currentColor;fill-opacity:1" d="m 32,14 c -3.8668,0 -7,3.1346 -7,7 0,3.8654 3.1332,7 7,7 3.8668,0 7,-3.1346 7,-7 0,-3.8654 -3.1332,-7 -7,-7 z" id="path4" class="ColorScheme-Text"/>
-    <path style="fill:currentColor;fill-opacity:1" d="m 32,33.000002 c -13.9986,0.0084 -14,8.861538 -14,8.861538 v 3.6 c 0,0 2.584598,5.53846 14,5.53846 11.415402,0 14,-5.53846 14,-5.53846 v -3.6 c 0,0 0,-8.867076 -13.9972,-8.861538 z" id="path5" class="ColorScheme-Text"/>
+  <g style="fill:#000000;fill-opacity:1" id="g5" transform="matrix(0.40103608,0,0,0.40103608,-4.3666546,-4.5671726)" class="ColorScheme-Text">
+    <path style="fill:#000000;fill-opacity:1" d="m 32,14 c -3.8668,0 -7,3.1346 -7,7 0,3.8654 3.1332,7 7,7 3.8668,0 7,-3.1346 7,-7 0,-3.8654 -3.1332,-7 -7,-7 z" id="path4" class="ColorScheme-Text"/>
+    <path style="fill:#000000;fill-opacity:1" d="m 32,33.000002 c -13.9986,0.0084 -14,8.861538 -14,8.861538 v 3.6 c 0,0 2.584598,5.53846 14,5.53846 11.415402,0 14,-5.53846 14,-5.53846 v -3.6 c 0,0 0,-8.867076 -13.9972,-8.861538 z" id="path5" class="ColorScheme-Text"/>
   </g>
 </svg>

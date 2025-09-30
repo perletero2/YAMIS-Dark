@@ -12,8 +12,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g id="g30" transform="matrix(0.70554167,0,0,0.70554167,2.1169777,0.3527708)" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text">
-    <path d="m 389.571,519.798 h 5 v 1 h -5 z m 0,6 h 4 v 1 h -4 z m 0,2 h 4 v 1 h -4 z m 0,2 h 3 v 1 h -3 z m 0,-8 h 4 v 1 h -4 z m 0,2 h 3 v 1 h -3 z m 0,8 h 5 v 1 h -5 z m 0,2 h 3 v 1 h -3 z" transform="matrix(2,0,0,1,-773.143,-515.798)" id="path21" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="M 2,4 H 5 V 5 H 2 Z M 2,6 H 5 V 7 H 2 Z M 2,8 H 5 V 9 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z" id="path30" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
+  <g id="g30" transform="matrix(0.70554167,0,0,0.70554167,2.1169777,0.3527708)" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text">
+    <path d="m 389.571,519.798 h 5 v 1 h -5 z m 0,6 h 4 v 1 h -4 z m 0,2 h 4 v 1 h -4 z m 0,2 h 3 v 1 h -3 z m 0,-8 h 4 v 1 h -4 z m 0,2 h 3 v 1 h -3 z m 0,8 h 5 v 1 h -5 z m 0,2 h 3 v 1 h -3 z" transform="matrix(2,0,0,1,-773.143,-515.798)" id="path21" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="M 2,4 H 5 V 5 H 2 Z M 2,6 H 5 V 7 H 2 Z M 2,8 H 5 V 9 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z m 0,2 h 3 v 1 H 2 Z" id="path30" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
   </g>
   </svg>

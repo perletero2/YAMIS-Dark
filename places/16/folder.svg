@@ -12,5 +12,5 @@
   <defs id="defs3">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#000000} .ColorScheme-Highlight {color:#3b4252}</style>
   </defs>
-  <path style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.85714;stroke-opacity:0.3" class="ColorScheme-Text" d="m 12,16.285715 v 31.42857 c 0,0 0,2.857143 2.857143,2.857143 h 34.285714 c 0,0 2.857143,0 2.857143,-2.857143 V 22.000001 c 0,-2.857143 -2.857143,-2.857143 -2.857143,-2.857143 H 34.857143 L 29.142858,13.428572 H 14.857143 c 0,0 -2.857143,0 -2.857143,2.857143 z" id="path5"/>
+  <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.85714;stroke-opacity:0.3" class="ColorScheme-Text" d="m 12,16.285715 v 31.42857 c 0,0 0,2.857143 2.857143,2.857143 h 34.285714 c 0,0 2.857143,0 2.857143,-2.857143 V 22.000001 c 0,-2.857143 -2.857143,-2.857143 -2.857143,-2.857143 H 34.857143 L 29.142858,13.428572 H 14.857143 c 0,0 -2.857143,0 -2.857143,2.857143 z" id="path5"/>
 </svg>

@@ -12,5 +12,5 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.315917;stroke-dasharray:none;stroke-opacity:0.3" d="M 8.4664998,3.1749377 V 7.1436093 H 12.33899 L 8.4664998,13.758062 V 9.7893897 H 4.5940095 Z" id="path6" class="ColorScheme-Text"/>
+  <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.315917;stroke-dasharray:none;stroke-opacity:0.3" d="M 8.4664998,3.1749377 V 7.1436093 H 12.33899 L 8.4664998,13.758062 V 9.7893897 H 4.5940095 Z" id="path6" class="ColorScheme-Text"/>
   </svg>

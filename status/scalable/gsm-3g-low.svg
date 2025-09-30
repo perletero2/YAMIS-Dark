@@ -3,7 +3,7 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#000000} .ColorScheme-Highlight {color:#3b4252}</style></defs>
  <g transform="translate(-104 -596.36)" style="">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m109 615.37 14-14v14z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m113 611.37-4 4h4v-4z"/>
+  <path opacity=".35" style="fill:#000000" class="ColorScheme-Text" d="m109 615.37 14-14v14z"/>
+  <path style="fill:#000000" class="ColorScheme-Text" d="m113 611.37-4 4h4v-4z"/>
  </g>
 </svg>

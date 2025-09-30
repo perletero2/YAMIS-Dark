@@ -11,9 +11,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g id="g8" transform="matrix(0.32982045,0,0,0.32982045,-2.0084536,-2.0877542)" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text">
-    <path style="fill:currentColor;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-18.345859,-9.5919001)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path5" class="ColorScheme-Text"/>
-    <path style="fill:currentColor;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-29.982222,6.4080997)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path7" class="ColorScheme-Text"/>
-    <path style="fill:currentColor;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-6.7094953,6.4080993)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path8" class="ColorScheme-Text"/>
+  <g id="g8" transform="matrix(0.32982045,0,0,0.32982045,-2.0084536,-2.0877542)" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text">
+    <path style="fill:#000000;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-18.345859,-9.5919001)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path5" class="ColorScheme-Text"/>
+    <path style="fill:#000000;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-29.982222,6.4080997)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path7" class="ColorScheme-Text"/>
+    <path style="fill:#000000;fill-opacity:1" transform="matrix(2.4618666,0,0,1.9543691,-6.7094953,6.4080993)" d="m 15.723637,13.094712 h 4.726642 l 4.726643,-10e-7 -2.363322,4.093393 -2.363321,4.093393 -2.363321,-4.093393 z" id="path8" class="ColorScheme-Text"/>
   </g>
   </svg>

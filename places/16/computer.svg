@@ -12,5 +12,5 @@
   <defs id="defs3">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#000000} .ColorScheme-Highlight {color:#3b4252}</style>
   </defs>
-  <path style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.66799;stroke-dasharray:none;stroke-opacity:0.3" class="ColorScheme-Text" d="m 14.5,14.500001 c -2.5,0 -2.5,2.499998 -2.5,2.499998 v 25.000003 c 0,2.500002 2.5,2.500002 2.5,2.500002 h 12.499998 c 0,0 -2.499999,0 -2.499999,2.499999 v 2.499996 h 15.000003 v -2.499996 c 0,-2.499999 -2.500003,-2.499999 -2.500003,-2.499999 H 49.499995 C 52,44.500004 52,42.000002 52,42.000002 V 16.999999 c 0,0 0,-2.499998 -2.500005,-2.499998 z m 2.499998,5 H 47.000002 V 39.500003 H 16.999998 Z" id="path5-3"/>
+  <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66799;stroke-dasharray:none;stroke-opacity:0.3" class="ColorScheme-Text" d="m 14.5,14.500001 c -2.5,0 -2.5,2.499998 -2.5,2.499998 v 25.000003 c 0,2.500002 2.5,2.500002 2.5,2.500002 h 12.499998 c 0,0 -2.499999,0 -2.499999,2.499999 v 2.499996 h 15.000003 v -2.499996 c 0,-2.499999 -2.500003,-2.499999 -2.500003,-2.499999 H 49.499995 C 52,44.500004 52,42.000002 52,42.000002 V 16.999999 c 0,0 0,-2.499998 -2.500005,-2.499998 z m 2.499998,5 H 47.000002 V 39.500003 H 16.999998 Z" id="path5-3"/>
 </svg>

@@ -12,5 +12,5 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path id="rect5" class="ColorScheme-Text" style="fill:currentColor;stroke-width:0.259031;stroke-linejoin:bevel;paint-order:fill markers stroke" d="M 1.0583125,2.099496 V 14.833504 H 15.874688 V 2.099496 Z m 0.297481,2.9702567 H 15.577207 V 14.054893 H 1.3557935 Z"/>
+  <path id="rect5" class="ColorScheme-Text" style="fill:#000000;stroke-width:0.259031;stroke-linejoin:bevel;paint-order:fill markers stroke" d="M 1.0583125,2.099496 V 14.833504 H 15.874688 V 2.099496 Z m 0.297481,2.9702567 H 15.577207 V 14.054893 H 1.3557935 Z"/>
 </svg>

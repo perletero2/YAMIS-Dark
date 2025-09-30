@@ -11,13 +11,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g id="g2187" style="fill:currentColor;fill-opacity:1" transform="matrix(0.56694286,0,0,0.56694286,-4.9538846,-5.2582886)" class="ColorScheme-Text">
-    <path d="m 17,12.20022 h 12 v 5 H 17 Z" id="path8" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 17,17.071859 h 4 v 5 h -4 z" id="path9" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 27,17.071859 h 4 v 5 h -4 z" id="path10" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 17,22 h 12 v 5 H 17 Z" id="path11" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 17,26.943318 h 4 v 5 h -4 z" id="path12" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 27,26.943318 h 4 v 5 h -4 z" id="path13" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
-    <path d="m 17,31.886981 h 12 v 5 H 17 Z" id="path14" style="fill:currentColor;fill-opacity:1" class="ColorScheme-Text"/>
+  <g id="g2187" style="fill:#000000;fill-opacity:1" transform="matrix(0.56694286,0,0,0.56694286,-4.9538846,-5.2582886)" class="ColorScheme-Text">
+    <path d="m 17,12.20022 h 12 v 5 H 17 Z" id="path8" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 17,17.071859 h 4 v 5 h -4 z" id="path9" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 27,17.071859 h 4 v 5 h -4 z" id="path10" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 17,22 h 12 v 5 H 17 Z" id="path11" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 17,26.943318 h 4 v 5 h -4 z" id="path12" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 27,26.943318 h 4 v 5 h -4 z" id="path13" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
+    <path d="m 17,31.886981 h 12 v 5 H 17 Z" id="path14" style="fill:#000000;fill-opacity:1" class="ColorScheme-Text"/>
   </g>
 </svg>

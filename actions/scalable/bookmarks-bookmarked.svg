@@ -4,5 +4,5 @@
   <defs id="defs1">
     <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #000000; } </style>
   </defs>
-  <path class="ColorScheme-Text" d="M 18.666666,12 V 52 L 31.999999,46.686667 45.333333,52 V 12 H 22 Z" fill="currentColor" id="path5" style="stroke-width:3.33333"/>
+  <path class="ColorScheme-Text" d="M 18.666666,12 V 52 L 31.999999,46.686667 45.333333,52 V 12 H 22 Z" fill="#000000" id="path5" style="stroke-width:3.33333"/>
 </svg>
